@@ -1,0 +1,15 @@
+{
+  "name": "deva-djs-bot",
+  "version": "1.0.0",
+  "description": "a discord js bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "arnav",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1"
+  }
+}

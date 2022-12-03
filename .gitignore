@@ -1,0 +1,4 @@
+/node_modules
+.env
+/.upm
+package-lock.json
