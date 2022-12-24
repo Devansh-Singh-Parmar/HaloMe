@@ -254,5 +254,5 @@ client.on("message", async (message) => {
 
 //login
 client.login(
-  "OTAyMTEyOTQxMTI4NzA4MTQ2.GPyKQc.5sQ3sCzgogiZWrE-2HChlFxf7V48Yf1uOC_kMA"
+  "OTAyMTEyOTQxMTI4NzA4MTQ2.G7B8_h.Om3R8EIuncyy8tyjIAq0bgi7g3auY1hlF6x6qQ"
 );
